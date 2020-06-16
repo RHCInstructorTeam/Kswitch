@@ -8,8 +8,8 @@ Important, you need to be logged into your kubernetes cluster first.
 ### Usage
 ---------
 
-shub ocp4.2 ~ % git clone github.com/shkatara/Kswitch \ 
-shub ocp4.2 ~ % cd Kswitch \
+shub ocp4.2 ~ % git clone github.com/shkatara/Kswitch    \ 
+shub ocp4.2 ~ % cd Kswitch    \
 shub ocp4.2 ~ % chmod +x kswitch && mv kswitch /usr/bin    \
 shub ocp4.2 ~ % kswitch kube-project
 
