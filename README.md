@@ -14,3 +14,12 @@ Important, you need to be logged into your kubernetes cluster first.
 > shub ocp4.2 ~ % kswitch kube-project
 
 Note: Move it anywhere in the directories in your $PATH environment variable.
+
+### Output
+----------
+> shub ocp4.2 ~ %  kswitch kube-systemasdas  
+Error: The given project kube-systemasdas does not exist. Please check the name of your project.  
+> shub ocp4.2 ~ %  kswitch kube-system  
+Context "kubernetes-admin@kubernetes" modified.  
+Project switched to kube-system.  
+
